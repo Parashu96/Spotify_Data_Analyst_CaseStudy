@@ -9,8 +9,11 @@ Q1) Find the total active users each day.
 Day         DAU
 
 2022-01-01	3
+
 2022-01-02	1
+
 2022-01-03	3
+
 2022-01-04	1
 
 Q2) Find the total actove users each week.
@@ -18,6 +21,7 @@ Q2) Find the total actove users each week.
 Week WAU
 
 0	3
+
 1	5
 
 Q3) Find the datewise total number of user who made the purchase, the same day they installed the app.
@@ -25,6 +29,7 @@ Q3) Find the datewise total number of user who made the purchase, the same day t
 Evenet_date Number_of_users
 
 2022-01-03	2
+
 2022-01-04	1
 
 Q4) percentage of paid users in india, USA, and other countries where other countries other than India and USA are tagged as others.
@@ -32,7 +37,9 @@ Q4) percentage of paid users in india, USA, and other countries where other coun
 new_country  percent_users
 
 India	40.00
+
 others	40.00
+
 USA	20.00
 
 Q5) Among all the users who installed the app on any given day, how many did in app purchase on the very next day (give day wise result)
